@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 @author:     leon
-@contact:    530827182.com
-@others:     All by Jianzhong, All rights reserved-- Created on 2018/8/12
+@contact:    576808577@qq.com
+@others:     All by leon, All rights reserved-- Created on 2018/8/12
 @desc:
 """
 import unittest
