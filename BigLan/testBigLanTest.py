@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@author:     chenjianzhong
-@contact:    530827182.com
-@others:     All by Jianzhong, All rights reserved-- Created on 2018/8/12
+@author:     leon
+@contact:    576808577@qq.com
+@others:     All by leon, All rights reserved-- Created on 2021/4/16
 @desc:
 """
 import time
